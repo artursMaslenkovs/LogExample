@@ -1,0 +1,25 @@
+[main] INFO  Main  - Hello World
+[main] INFO  Square  - Created Square
+[main] INFO  Square  - Calculated perimeter
+[main] INFO  Square  - Calculated square
+[main] ERROR Square  - divide by 0
+[main] 11:29:19 INFO  Main  - Hello World
+[main] 11:29:19 INFO  Square  - Created Square
+[main] 11:29:19 INFO  Square  - Calculated perimeter
+[main] 11:29:19 INFO  Square  - Calculated square
+[main] 11:29:19 ERROR Square  - divide by 0
+[main] 11:29:32 INFO  Main  - Hello World
+[main] 11:29:32 INFO  Square  - Created Square
+[main] 11:29:32 INFO  Square  - Calculated perimeter
+[main] 11:29:32 INFO  Square  - Calculated square
+[main] 11:29:32 ERROR Square  - divide by 0
+[main] 11:31:33,348 INFO  Main  - Hello World
+[main] 11:31:33,351 INFO  Square  - Created Square
+[main] 11:31:33,351 INFO  Square  - Calculated perimeter
+[main] 11:31:33,353 INFO  Square  - Calculated square
+[main] 11:31:33,355 ERROR Square  - divide by 0
+[main] 11:32:15 INFO  Main  - Hello World
+[main] 11:32:15 INFO  Square  - Created Square
+[main] 11:32:15 INFO  Square  - Calculated perimeter
+[main] 11:32:15 INFO  Square  - Calculated square
+[main] 11:32:15 ERROR Square  - divide by 0
